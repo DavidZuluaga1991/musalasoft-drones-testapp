@@ -1,0 +1,30 @@
+# modules and dependencies of Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# generated files
+dist/
+build/
+out/
+
+# Specific environments
+.env
+.env.*
+
+# Logs and temporary files
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Local configuration files
+config/local.json
+
+# backup files
+*.bak
+*.backup
+*.tmp
+
+# cache files
+.cache/
